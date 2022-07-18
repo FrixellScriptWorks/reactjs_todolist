@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactjs_todolist/static/css/main.dc239c4e.css",
+    "main.js": "/reactjs_todolist/static/js/main.fa5433da.js",
+    "static/js/787.3cc20980.chunk.js": "/reactjs_todolist/static/js/787.3cc20980.chunk.js",
+    "static/media/pexels-matheus-guimarães-611328.jpg": "/reactjs_todolist/static/media/pexels-matheus-guimarães-611328.6b132b7dc593f2806248.jpg",
+    "index.html": "/reactjs_todolist/index.html",
+    "main.dc239c4e.css.map": "/reactjs_todolist/static/css/main.dc239c4e.css.map",
+    "main.fa5433da.js.map": "/reactjs_todolist/static/js/main.fa5433da.js.map",
+    "787.3cc20980.chunk.js.map": "/reactjs_todolist/static/js/787.3cc20980.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc239c4e.css",
+    "static/js/main.fa5433da.js"
+  ]
+}
